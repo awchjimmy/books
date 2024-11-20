@@ -8,6 +8,7 @@
 |程式交易快穩準|蔡嘉民|1.3|
 |原子習慣|James Clear|2|
 |風險投資實用分析技巧|許沂光|p46 錘頭與吊頸|
+|Algorithmic Trading - Winning Strategies and Their Rationale|Ernest P. Chan|p10 Preface|
 
 ### 完成
 |書名|作者|完成日期|
