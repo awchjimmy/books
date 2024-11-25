@@ -11,7 +11,7 @@
 |風險投資實用分析技巧|許沂光|p46 錘頭與吊頸|
 |Algorithmic Trading - Winning Strategies and Their Rationale|Ernest P. Chan|p10 Preface|
 |High-Frequency Trading|Irene Aldridge|1% ch1|
-|||ch2|
+|WAHH||ch2|
 
 ### 完成
 |書名|作者|完成日期|
