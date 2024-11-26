@@ -4,6 +4,7 @@
 ### 閱讀中
 |書名|作者|閱讀進度|
 |----|----|----|
+|The Web Application Hacker's Handbook||ch3|
 |01創世記|聖經|10/50|
 |19詩篇|聖經|2/150|
 |程式交易快穩準|蔡嘉民|1.3|
@@ -11,7 +12,6 @@
 |風險投資實用分析技巧|許沂光|p46 錘頭與吊頸|
 |Algorithmic Trading - Winning Strategies and Their Rationale|Ernest P. Chan|p10 Preface|
 |High-Frequency Trading|Irene Aldridge|1% ch1|
-|WAHH||ch2|
 
 ### 完成
 |書名|作者|完成日期|
