@@ -5,6 +5,7 @@
 |書名|作者|閱讀進度|
 |----|----|----|
 |The Web Application Hacker's Handbook|Dafydd Stuttard<br>Marcus Pinto|8% ch4|
+|拒絕的根|Joyce Meyer|ch2 拒絕的原因和結果|
 |01創世記|聖經|10/50|
 |19詩篇|聖經|2/150|
 |程式交易快穩準|蔡嘉民|1.3|
