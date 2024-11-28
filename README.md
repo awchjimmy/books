@@ -5,7 +5,7 @@
 |書名|作者|閱讀進度|
 |----|----|----|
 |The Web Application Hacker's Handbook|Dafydd Stuttard<br>Marcus Pinto|8% ch4|
-|Quantitative Trading|Ernest P. Chan|11% ch1|
+|Quantitative Trading|Ernest P. Chan|15% ch2|
 |拒絕的根|Joyce Meyer|ch4 保護的牆|
 |01創世記|聖經|10/50|
 |19詩篇|聖經|2/150|
