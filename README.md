@@ -11,7 +11,8 @@
 |程式交易快穩準|蔡嘉民|1.3|
 |原子習慣|James Clear|2|
 |風險投資實用分析技巧|許沂光|p46 錘頭與吊頸|
-|Algorithmic Trading - Winning Strategies and Their Rationale|Ernest P. Chan|p10 Preface|
+|Quantitative Trading|Ernest P. Chan|11% ch1|
+|Algorithmic Trading|Ernest P. Chan|p10 Preface|
 |High-Frequency Trading|Irene Aldridge|1% ch1|
 
 ### 完成
