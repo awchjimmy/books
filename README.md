@@ -6,6 +6,7 @@
 |----|----|----|
 |The Web Application Hacker's Handbook|Dafydd Stuttard<br>Marcus Pinto|8% ch4|
 |Quantitative Trading|Ernest P. Chan|15% ch2|
+|Running Lean||17%|
 |拒絕的根|Joyce Meyer|ch4 保護的牆|
 |01創世記|聖經|10/50|
 |19詩篇|聖經|2/150|
