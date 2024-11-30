@@ -6,7 +6,7 @@
 |----|----|----|
 |The Web Application Hacker's Handbook|Dafydd Stuttard<br>Marcus Pinto|8% ch4|
 |Quantitative Trading|Ernest P. Chan|15% ch2|
-|Running Lean|Ash Maurya|41% Revenue Streams|
+|Running Lean|Ash Maurya|44% 5 steps|
 |拒絕的根|Joyce Meyer|ch5|
 |01創世記|聖經|10/50|
 |19詩篇|聖經|2/150|
