@@ -5,7 +5,7 @@
 |書名|作者|閱讀進度|
 |----|----|----|
 |The Web Application Hacker's Handbook|Dafydd Stuttard<br>Marcus Pinto|8% ch4|
-|Quantitative Trading|Ernest P. Chan|ch3|
+|Quantitative Trading|Ernest P. Chan|40% p60 Transaction Costs|
 |Running Lean|Ash Maurya|60%|
 |拒絕的根|Joyce Meyer|ch5|
 |01創世記|聖經|10/50|
