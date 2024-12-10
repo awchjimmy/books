@@ -4,13 +4,13 @@
 ### 閱讀中
 |書名|作者|閱讀進度|
 |----|----|----|
+|程式交易快穩準|蔡嘉民|1.4|
 |The Web Application Hacker's Handbook|Dafydd Stuttard<br>Marcus Pinto|8% ch4|
 |Quantitative Trading|Ernest P. Chan|ch3,6,7 stuck|
 |Running Lean|Ash Maurya|60%|
 |拒絕的根|Joyce Meyer|ch5|
 |01創世記|聖經|10/50|
 |19詩篇|聖經|2/150|
-|程式交易快穩準|蔡嘉民|1.3|
 |原子習慣|James Clear|2|
 |風險投資實用分析技巧|許沂光|p46 錘頭與吊頸|
 |Algorithmic Trading|Ernest P. Chan|p10 Preface|
