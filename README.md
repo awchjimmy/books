@@ -4,7 +4,7 @@
 ### 閱讀中
 |書名|作者|閱讀進度|
 |----|----|----|
-|程式交易快穩準|蔡嘉民|4.1|
+|程式交易快穩準|蔡嘉民|4.2|
 |The Web Application Hacker's Handbook|Dafydd Stuttard<br>Marcus Pinto|8% ch4|
 |Quantitative Trading|Ernest P. Chan|ch3,6,7 stuck|
 |Running Lean|Ash Maurya|60%|
