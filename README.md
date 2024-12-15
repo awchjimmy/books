@@ -4,7 +4,6 @@
 ### 閱讀中
 |書名|作者|閱讀進度|
 |----|----|----|
-|程式交易快穩準|蔡嘉民|附錄|
 |The Web Application Hacker's Handbook|Dafydd Stuttard<br>Marcus Pinto|8% ch4|
 |Quantitative Trading|Ernest P. Chan|ch3,6,7 stuck|
 |Running Lean|Ash Maurya|60%|
@@ -22,6 +21,7 @@
 |反市場：JG股市操作原理|JG|2024-07-14|
 |程式交易的理論與實踐|蔡嘉民|2024-11-08|
 |離開公司,我過得還不錯|劉揚銘|2024-11-19|
+|程式交易快穩準|蔡嘉民|2024-12-15|
 
 ### 新約
 |書名|作者|完成日期|
