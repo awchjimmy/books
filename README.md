@@ -4,7 +4,7 @@
 ### 閱讀中
 |書名|作者|閱讀進度|
 |----|----|----|
-|Modernizing Legacy Systems||ch3|
+|Modernizing Legacy Systems||ch4|
 |The Web Application Hacker's Handbook|Dafydd Stuttard<br>Marcus Pinto|8% ch4|
 |Quantitative Trading|Ernest P. Chan|ch3,6,7 stuck|
 |Running Lean|Ash Maurya|60%|
