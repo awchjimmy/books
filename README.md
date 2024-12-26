@@ -4,7 +4,7 @@
 ### 閱讀中
 |書名|作者|閱讀進度|
 |----|----|----|
-|修改代碼的藝術<br>Working Effectively with Legacy Code|Michael C. Feathers|skip ch1<br>ch4|
+|修改代碼的藝術<br>Working Effectively with Legacy Code|Michael C. Feathers|skip ch1<br>ch5|
 |Domain Driven Design|Eric Evans|ch4|
 |Modernizing Legacy Systems||ch4|
 |The Web Application Hacker's Handbook|Dafydd Stuttard<br>Marcus Pinto|8% ch4|
