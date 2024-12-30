@@ -5,7 +5,7 @@
 |書名|作者|閱讀進度|
 |----|----|----|
 |合神心意的男人|Jim George|ch2|
-|修改代碼的藝術<br>Working Effectively with Legacy Code|Michael C. Feathers|skip ch1<br>ch5|
+|修改代碼的藝術<br>Working Effectively with Legacy Code|Michael C. Feathers|skip ch1<br>ch6|
 |Domain Driven Design|Eric Evans|ch4|
 |The 30-minute Stock Trader|Laurens Bensdorp|ch9|
 |Modernizing Legacy Systems||ch4|
