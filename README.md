@@ -4,10 +4,10 @@
 ### 閱讀中
 |書名|作者|閱讀進度|
 |----|----|----|
-|合神心意的男人|Jim George|ch2|
+|合神心意的男人|Jim George|ch3|
 |修改代碼的藝術<br>Working Effectively with Legacy Code|Michael C. Feathers|skip ch1<br>ch6|
 |Domain Driven Design|Eric Evans|ch4|
-|The 30-minute Stock Trader|Laurens Bensdorp|ch11|
+|The 30-minute Stock Trader|Laurens Bensdorp|ch12|
 |Modernizing Legacy Systems||ch4|
 |The Web Application Hacker's Handbook|Dafydd Stuttard<br>Marcus Pinto|8% ch4|
 |Quantitative Trading|Ernest P. Chan|ch3,6,7 stuck|
