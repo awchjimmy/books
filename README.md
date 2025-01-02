@@ -8,7 +8,6 @@
 |買房實戰課|Ted|part2|
 |修改代碼的藝術<br>Working Effectively with Legacy Code|Michael C. Feathers|skip ch1<br>ch6|
 |Domain Driven Design|Eric Evans|ch4|
-|The 30-minute Stock Trader|Laurens Bensdorp|ch15|
 |Modernizing Legacy Systems||ch4|
 |The Web Application Hacker's Handbook|Dafydd Stuttard<br>Marcus Pinto|8% ch4|
 |Quantitative Trading|Ernest P. Chan|ch3,6,7 stuck|
@@ -22,6 +21,11 @@
 |High-Frequency Trading|Irene Aldridge|1% ch1|
 
 ### 完成
+
+|書名|作者|完成日期|
+|----|----|----|
+|The 30-minute Stock Trader|Laurens Bensdorp|2025/01/01|
+
 <details>
   <summary>2024年</summary>
 
