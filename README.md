@@ -5,6 +5,7 @@
 |書名|作者|閱讀進度|
 |----|----|----|
 |合神心意的男人|Jim George|ch3|
+|生產控制與在製品管理||1-2|
 |買房實戰課|Ted|part2|
 |修改代碼的藝術<br>Working Effectively with Legacy Code|Michael C. Feathers|skip ch1<br>ch6|
 |Domain Driven Design|Eric Evans|ch4|
@@ -24,7 +25,7 @@
 
 |書名|作者|完成日期|
 |----|----|----|
-|The 30-minute Stock Trader|Laurens Bensdorp|2025/01/01|
+|The 30-minute Stock Trader|Laurens Bensdorp|2025-01-01|
 
 <details>
   <summary>2024年</summary>
