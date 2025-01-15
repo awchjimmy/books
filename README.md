@@ -5,7 +5,7 @@
 |書名|作者|閱讀進度|
 |----|----|----|
 |合神心意的男人|Jim George|ch3|
-|Building Software Platforms|Pablo Bermejo|ch3|
+|Building Software Platforms|Pablo Bermejo|ch4|
 
 ### 擱置
 |書名|作者|閱讀進度|
