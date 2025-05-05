@@ -4,6 +4,7 @@
 ### 閱讀中
 |書名|作者|閱讀進度|
 |----|----|----|
+|Sink Reflections|FlyLady|done: Introduction|
 |合神心意的男人|Jim George|ch5|
 |Building Software Platforms|Pablo Bermejo|ch4|
 
