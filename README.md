@@ -22,7 +22,6 @@
 |Quantitative Trading<br>計量交易|Ernest P. Chan|done: ch1<br>stuck: ch3,6,7|
 |Running Lean|Ash Maurya|60%|
 |拒絕的根|Joyce Meyer|ch5|
-|19詩篇|聖經|2/150|
 |原子習慣|James Clear|2|
 |風險投資實用分析技巧|許沂光|p46 錘頭與吊頸|
 |Algorithmic Trading|Ernest P. Chan|p10 Preface|
