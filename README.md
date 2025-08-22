@@ -12,6 +12,7 @@
 ### 擱置
 |書名|作者|閱讀進度|
 |----|----|----|
+|Backtrader Essentials||ch1 done|
 |Learning Apache Thrift||34% ch4|
 |生產控制與在製品管理||1-2|
 |買房實戰課|Ted|part2|
