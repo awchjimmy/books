@@ -1,18 +1,27 @@
 # books
 個人讀書進度
 
+### life
+|書名|作者|閱讀進度|
+|----|----|----|
+|合神心意的男人|Jim George|ch5|
+
+### trading
+|書名|作者|閱讀進度|
+|----|----|----|
+|How to Day Trade for a Living||ch1 done|
+|Backtrader Essentials||ch1 done|
+
 ### 閱讀中
 |書名|作者|閱讀進度|
 |----|----|----|
 |Staff工程師之路|Tanya Reilly|ch2 三張地圖|
 |Sink Reflections|FlyLady|done: Introduction|
-|合神心意的男人|Jim George|ch5|
 |Building Software Platforms|Pablo Bermejo|ch4|
 
 ### 擱置
 |書名|作者|閱讀進度|
 |----|----|----|
-|Backtrader Essentials||ch1 done|
 |Learning Apache Thrift||34% ch4|
 |生產控制與在製品管理||1-2|
 |買房實戰課|Ted|part2|
