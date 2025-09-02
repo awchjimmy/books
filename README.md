@@ -1,7 +1,7 @@
 # books
 個人讀書進度
 
-### life
+### spiritual life
 |書名|作者|閱讀進度|
 |----|----|----|
 |合神心意的男人|Jim George|ch5|
@@ -11,17 +11,27 @@
 |----|----|----|
 |How to Day Trade for a Living||ch1 done|
 |Backtrader Essentials||ch1 done|
+||||
+|The 30-minute Stock Trader|Laurens Bensdorp|2025-01-01 done|
+|程式交易快穩準|蔡嘉民|2024-12-15 done|
+|程式交易的理論與實踐|蔡嘉民|2024-11-08 done|
+|反市場：JG股市操作原理|JG|2024-07-14 done|
 
-### 閱讀中
+### software
 |書名|作者|閱讀進度|
 |----|----|----|
-|Staff工程師之路|Tanya Reilly|ch2 三張地圖|
-|Sink Reflections|FlyLady|done: Introduction|
-|Building Software Platforms|Pablo Bermejo|ch4|
+|Staff工程師之路|Tanya Reilly|ch1 done|
+
+### life
+|書名|作者|閱讀進度|
+|----|----|----|
+|離開公司,我過得還不錯|劉揚銘|2024-11-19|
 
 ### 擱置
 |書名|作者|閱讀進度|
 |----|----|----|
+|Sink Reflections|FlyLady|done: Introduction|
+|Building Software Platforms|Pablo Bermejo|ch4|
 |Learning Apache Thrift||34% ch4|
 |生產控制與在製品管理||1-2|
 |買房實戰課|Ted|part2|
@@ -36,25 +46,6 @@
 |風險投資實用分析技巧|許沂光|p46 錘頭與吊頸|
 |Algorithmic Trading|Ernest P. Chan|p10 Preface|
 |High-Frequency Trading|Irene Aldridge|1% ch1|
-
-### 完成
-
-|書名|作者|完成日期|
-|----|----|----|
-|The 30-minute Stock Trader|Laurens Bensdorp|2025-01-01|
-
-<details>
-  <summary>2024年</summary>
-
-|書名|作者|完成日期|
-|----|----|----|
-|程式交易快穩準|蔡嘉民|2024-12-15|
-|離開公司,我過得還不錯|劉揚銘|2024-11-19|
-|程式交易的理論與實踐|蔡嘉民|2024-11-08|
-|反市場：JG股市操作原理|JG|2024-07-14|
-
-</details>
-
 
 ### 聖經
 
