@@ -9,7 +9,7 @@
 ### trading
 |書名|作者|閱讀進度|
 |----|----|----|
-|How to Day Trade for a Living||ch4 done p78|
+|How to Day Trade for a Living||ch5 done p107|
 |Backtrader Essentials||ch1 done|
 ||||
 |The 30-minute Stock Trader|Laurens Bensdorp|2025-01-01 done|
@@ -25,7 +25,7 @@
 ### life
 |書名|作者|閱讀進度|
 |----|----|----|
-|離開公司,我過得還不錯|劉揚銘|2024-11-19|
+|離開公司,我過得還不錯|劉揚銘|2024-11-19 done|
 
 ### 擱置
 |書名|作者|閱讀進度|
