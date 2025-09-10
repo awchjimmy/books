@@ -9,7 +9,7 @@
 ### trading
 |書名|作者|閱讀進度|
 |----|----|----|
-|How to Day Trade for a Living||ch6 done p123|
+|How to Day Trade for a Living||ch6 done p144|
 |Backtrader Essentials||ch1 done|
 ||||
 |The 30-minute Stock Trader|Laurens Bensdorp|2025-01-01 done|
@@ -26,6 +26,9 @@
 |書名|作者|閱讀進度|
 |----|----|----|
 |離開公司,我過得還不錯|劉揚銘|2024-11-19 done|
+
+<details>
+  <summary>擱置</summary>
 
 ### 擱置
 |書名|作者|閱讀進度|
@@ -47,8 +50,10 @@
 |Algorithmic Trading|Ernest P. Chan|p10 Preface|
 |High-Frequency Trading|Irene Aldridge|1% ch1|
 
-### 聖經
+</details>
 
+
+### 聖經
 Move to repo [awchjimmy/bucket-list-100](https://github.com/awchjimmy/bucket-list-100#41-%E8%AE%80%E5%AE%8C%E8%81%96%E7%B6%93)
 
 
