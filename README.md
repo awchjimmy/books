@@ -9,7 +9,7 @@
 ### trading
 |書名|作者|閱讀進度|
 |----|----|----|
-|How to Day Trade for a Living||ch6 done p144|
+|How to Day Trade for a Living||ch6 done p160|
 |Backtrader Essentials||ch1 done|
 ||||
 |The 30-minute Stock Trader|Laurens Bensdorp|2025-01-01 done|
