@@ -9,13 +9,13 @@
 ### trading
 |書名|作者|閱讀進度|
 |----|----|----|
-|How to Day Trade for a Living||ch6 done p160|
+|How to Day Trade for a Living||ch6 done p173|
 |Backtrader Essentials||ch1 done|
 ||||
-|The 30-minute Stock Trader|Laurens Bensdorp|2025-01-01 done|
-|程式交易快穩準|蔡嘉民|2024-12-15 done|
-|程式交易的理論與實踐|蔡嘉民|2024-11-08 done|
-|反市場：JG股市操作原理|JG|2024-07-14 done|
+|The 30-minute Stock Trader|Laurens Bensdorp|2025-01-01 ✅|
+|程式交易快穩準|蔡嘉民|2024-12-15 ✅|
+|程式交易的理論與實踐|蔡嘉民|2024-11-08 ✅|
+|反市場：JG股市操作原理|JG|2024-07-14 ✅|
 
 ### software
 |書名|作者|閱讀進度|
@@ -25,7 +25,7 @@
 ### life
 |書名|作者|閱讀進度|
 |----|----|----|
-|離開公司,我過得還不錯|劉揚銘|2024-11-19 done|
+|離開公司,我過得還不錯|劉揚銘|2024-11-19 ✅|
 
 <details>
   <summary>擱置</summary>
