@@ -12,6 +12,7 @@
 |How to Day Trade for a Living||ch7 done p199|
 |Backtrader Essentials||ch1 done|
 ||||
+|我是高頻交易工程師|董可人|2025-09-15 ✅|
 |The 30-minute Stock Trader|Laurens Bensdorp|2025-01-01 ✅|
 |程式交易快穩準|蔡嘉民|2024-12-15 ✅|
 |程式交易的理論與實踐|蔡嘉民|2024-11-08 ✅|
