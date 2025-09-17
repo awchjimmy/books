@@ -9,7 +9,7 @@
 ### trading
 |書名|作者|閱讀進度|
 |----|----|----|
-|How to Day Trade for a Living||ch7 done p199|
+|How to Day Trade for a Living||ch8 done p210|
 |Backtrader Essentials||ch1 done|
 ||||
 |我是高頻交易工程師|董可人|2025-09-15 ✅|
