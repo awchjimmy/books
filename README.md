@@ -9,9 +9,8 @@
 ### trading
 |書名|作者|閱讀進度|
 |----|----|----|
-|How to Day Trade for a Living||ch8 done p210|
-|Backtrader Essentials||ch1 done|
 ||||
+|How to Day Trade for a Living|Andrew Aziz|2025-09-17 ✅|
 |我是高頻交易工程師|董可人|2025-09-15 ✅|
 |The 30-minute Stock Trader|Laurens Bensdorp|2025-01-01 ✅|
 |程式交易快穩準|蔡嘉民|2024-12-15 ✅|
@@ -34,6 +33,7 @@
 ### 擱置
 |書名|作者|閱讀進度|
 |----|----|----|
+|Backtrader Essentials||ch1 done|
 |Sink Reflections|FlyLady|done: Introduction|
 |Building Software Platforms|Pablo Bermejo|ch4|
 |Learning Apache Thrift||34% ch4|
