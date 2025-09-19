@@ -21,6 +21,7 @@
 |書名|作者|閱讀進度|
 |----|----|----|
 |Staff工程師之路|Tanya Reilly|ch1 done|
+|Full Stack Testing|||
 
 ### life
 |書名|作者|閱讀進度|
