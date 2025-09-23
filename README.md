@@ -4,7 +4,7 @@
 ### spiritual life
 |書名|作者|閱讀進度|
 |----|----|----|
-|The Prophetic Worshiper||ch1 done|
+|The Prophetic Worshiper||ch2 done|
 |合神心意的男人|Jim George|ch5|
 
 ### trading
