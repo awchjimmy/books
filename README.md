@@ -4,7 +4,7 @@
 ### spiritual life
 |書名|作者|閱讀進度|
 |----|----|----|
-|為未生的孩子禱告|麥格納夫婦|ch6 done|
+|為未生的孩子禱告|麥格納夫婦|ch7 done|
 |渴慕神|陶恕|ch4 done|
 |The Prophetic Worshiper||ch2 done|
 |合神心意的男人|Jim George|ch5|
